@@ -1,0 +1,28 @@
+name: Testime
+favicon: null
+layout_spectrum: 0.7525155199691653
+typography_spectrum: 0.4985168206039816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38508412591181695
+  lightness: 0.5377438629511744
+  saturation: 0.1387503717560321
+  rhythmicContrast: 0.4952285592444241
+purpose: []
